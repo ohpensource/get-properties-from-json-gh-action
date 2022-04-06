@@ -70,7 +70,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get Properties From Json
         id: get-properties
-        uses: ohpensource/platform-cicd/actions/aws/cloudformation/get-properties-from-json@2.15.0.x
+        uses: ohpensource/get-properties-from-json-gh-action@v0.0.2
         with:
           account-name: "account-name-you-need"
           json-file-path: ./params/matrix.json
