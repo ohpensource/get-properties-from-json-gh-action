@@ -1,0 +1,1 @@
+# get-properties-from-json-gh-action
