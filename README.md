@@ -8,7 +8,7 @@
 	numbering=false
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc --># get-properties-from-json-gh-action
+<!-- /vscode-markdown-toc -->
 
 ## <a name='code-of-conduct'></a>code-of-conduct
 
