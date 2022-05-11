@@ -70,7 +70,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Get Properties From Json
         id: get-properties
-        uses: ohpensource/get-properties-from-json-gh-action@v0.0.2
+        uses: ohpensource/get-properties-from-json-gh-action@v0.0.3
         with:
           account-name: "account-name-you-need"
           json-file-path: ./params/matrix.json
